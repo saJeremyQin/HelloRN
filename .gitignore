@@ -1,0 +1,67 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Node Modules
+node_modules/
+
+# React Native Packager
+# 包含 Metro 缓存和临时文件
+*.swp
+*.lock
+*.lock.lock
+.expo/
+dist/
+build/
+.expo-shared/
+temp/
+.tmp/
+react-native-packager-cache/
+__generated__/
+*.cache
+
+# macOS
+.DS_Store
+
+# Android
+/android/.gradle
+/android/build/
+/android/app/build/
+/android/local.properties
+
+# iOS
+ios/Pods/
+ios/build/
+ios/*.pbxuser
+ios/*.xcworkspace
+ios/*.xcuserdata
+
+# Editor-specific files
+*.vscode/
+.idea/
+*.iml
+*.sublime-workspace
+*.sublime-project
+.vscode/
+.history/
+
+# Test output
+coverage/
+*.lcov
+
+# dotenv environment variables
+.env
+.env.*
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+
+# Firebase or Google services
+android/app/google-services.json
+ios/GoogleService-Info.plist
+

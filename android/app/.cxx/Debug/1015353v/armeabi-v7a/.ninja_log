@@ -1,0 +1,11 @@
+# ninja log v5
+2571	2718	1732320595458929730	/Users/nicolezhang/Desktop/learning/rnforMobileDev/HelloRN/android/app/build/intermediates/cxx/Debug/1015353v/obj/armeabi-v7a/libappmodules.so	681b3b5bce15a4fe
+11	2347	1732320595088368961	CMakeFiles/appmodules.dir/Users/nicolezhang/Desktop/learning/rnforMobileDev/HelloRN/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	c54797a5a75e5a49
+12	2571	1732320595304460134	CMakeFiles/appmodules.dir/OnLoad.cpp.o	e33ba3cfe146b161
+0	15	0	/Users/nicolezhang/Desktop/learning/rnforMobileDev/HelloRN/android/app/.cxx/Debug/1015353v/armeabi-v7a/CMakeFiles/cmake.verify_globs	a8873cf770a39ba
+22	149	1732320667192360693	build.ninja	f7840ed76b72a33d
+1	8	0	clean	38ff57fe7cb9f801
+0	6	0	/Users/nicolezhang/Desktop/learning/rnforMobileDev/HelloRN/android/app/.cxx/Debug/1015353v/armeabi-v7a/CMakeFiles/cmake.verify_globs	a8873cf770a39ba
+0	6	0	/Users/nicolezhang/Desktop/learning/rnforMobileDev/HelloRN/android/app/.cxx/Debug/1015353v/armeabi-v7a/CMakeFiles/cmake.verify_globs	a8873cf770a39ba
+1	13	0	/Users/nicolezhang/Desktop/learning/rnforMobileDev/HelloRN/android/app/.cxx/Debug/1015353v/armeabi-v7a/CMakeFiles/cmake.verify_globs	a8873cf770a39ba
+0	6	0	/Users/nicolezhang/Desktop/learning/rnforMobileDev/HelloRN/android/app/.cxx/Debug/1015353v/armeabi-v7a/CMakeFiles/cmake.verify_globs	a8873cf770a39ba
